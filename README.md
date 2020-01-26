@@ -8,11 +8,11 @@ CREATE DATABASE userRecords
 
 Query para crear la tabla
 
-CREATE TABLE Users (
-	IdUser int IDENTITY(1,1) PRIMARY KEY NOT NULL,
-	Name varchar (50) NULL,	
-	LastName varchar (50) NULL,
-	UserName varchar (50) NULL,
-	Email varchar (50) NULL,
-	Password varchar (50) NULL,	
+CREATE TABLE Users (<br/>
+	IdUser int IDENTITY(1,1) PRIMARY KEY NOT NULL, <br/>
+	Name varchar (50) NULL, <br/>
+	LastName varchar (50) NULL, <br/>
+	UserName varchar (50) NULL, <br/>
+	Email varchar (50) NULL, <br/>
+	Password varchar (50) NULL <br/>
 )
