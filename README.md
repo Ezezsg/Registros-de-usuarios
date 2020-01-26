@@ -14,5 +14,5 @@ CREATE TABLE Users (<br/>
 	LastName varchar (50) NULL, <br/>
 	UserName varchar (50) NULL, <br/>
 	Email varchar (50) NULL, <br/>
-	Password varchar (50) NULL <br/>
+	Password varchar (50) NULL, <br/>
 )
