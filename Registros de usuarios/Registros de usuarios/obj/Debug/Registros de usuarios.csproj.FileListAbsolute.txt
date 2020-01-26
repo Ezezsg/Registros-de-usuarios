@@ -1,0 +1,82 @@
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Registros de usuarios.dll.config
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Registros de usuarios.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Registros de usuarios.pdb
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\csc.exe
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\csc.exe.config
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\csc.rsp
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\csi.exe
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\csi.exe.config
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\csi.rsp
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.AppContext.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Collections.Immutable.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Console.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.IO.Compression.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.IO.FileSystem.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.IO.Pipes.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Reflection.Metadata.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Security.AccessControl.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Security.Claims.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.ValueTuple.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Xml.XPath.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\vbc.exe
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\vbc.exe.config
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\vbc.rsp
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\VBCSCompiler.exe
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\roslyn\VBCSCompiler.exe.config
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Microsoft.Web.Infrastructure.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Helpers.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Mvc.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Razor.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Webpages.Deployment.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Webpages.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Webpages.Razor.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Razor.xml
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Webpages.xml
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Webpages.Deployment.xml
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Webpages.Razor.xml
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Helpers.xml
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Mvc.xml
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\es\System.Web.Razor.resources.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\es\System.Web.Webpages.resources.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\es\System.Web.Webpages.Deployment.resources.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\es\System.Web.Webpages.Razor.resources.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\es\System.Web.Helpers.resources.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\es\System.Web.Mvc.resources.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\obj\Debug\Registros de usuarios.csprojAssemblyReference.cache
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\obj\Debug\Registros de usuarios.csproj.CoreCompileInputs.cache
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\obj\Debug\Registros de usuarios.csproj.CopyComplete
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\obj\Debug\Registros de usuarios.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\obj\Debug\Registros de usuarios.pdb
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Antlr3.Runtime.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Newtonsoft.Json.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Optimization.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\WebGrease.dll
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Antlr3.Runtime.pdb
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\Newtonsoft.Json.xml
+D:\Repositorios Visual Studio\Registros de usuarios\Registros de usuarios\bin\System.Web.Optimization.xml
